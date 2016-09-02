@@ -1,0 +1,5 @@
+stubrunner:
+  #work-offline: false
+  #ids: 'org.yukung.demo:beer-api-producer:+:stubs:8090'
+
+  #repositoryRoot: 'https://dl.bintray.com/yukung/maven'
